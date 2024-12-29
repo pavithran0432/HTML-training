@@ -1,0 +1,51 @@
+
+#d{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+
+#nav{
+    background-color: hsl(0, 0%, 98%);
+    color: rgb(14, 14, 14);
+    padding: 10px;
+    text-align: center;
+    list-style-type: none;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+li {
+    display:inline;
+}
+a{
+    text-decoration: none;
+    color: red;
+    padding: 20px;
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+#t{
+    height: 2px;
+    width: 50%;
+    background-color: black;
+}
+#df{
+    padding-left: 900px;
+    margin-top: -450px;
+}
+#para{
+    display: inline-block;
+    padding-left: 400px;
+    width: 30%;
+}
+#male{
+    position: absolute;
+    margin-left: 60%;
+    padding-top: 2%;
+    width: 17%;
+}
+body{
+    position: relative;
+}
