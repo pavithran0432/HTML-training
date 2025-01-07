@@ -29,13 +29,6 @@ for(var i=num;i<=10;i++)
 {
     console.log(num1*i); 
 }
-
-//task 4
-console.log("Task 4");
-
-
-
-
 //task 5
 console.log("Task 5");
 
