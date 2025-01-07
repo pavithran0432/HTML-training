@@ -64,7 +64,16 @@ console.log(max);
 //task 7
 console.log("Task 7");
 
-
+var name8="pavithran";
+let chararray=name8.split('');
+let count=0;
+for(let i=0;i<name8.length;i++){
+    if(chararray[i]=='a'||chararray[i]=='e'||chararray[i]=='i'||chararray[i]=='o'||chararray[i]=='u')
+    {
+        count++;
+    }
+}
+console.log(count);
 
 //task 8
 console.log("Task 8");
