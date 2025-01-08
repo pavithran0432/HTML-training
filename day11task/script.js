@@ -138,6 +138,11 @@ else{
 console.log("Task 15");
 
 var m="john doe";
+var sp=m.split(" ");
+for(let i=0;i<sp.length;i++)
+{
+    console.log(sp[i].toUpperCase().charAt(0));
+}
 
 //task 16
 console.log("Task 16");
